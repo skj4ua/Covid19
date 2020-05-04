@@ -1,0 +1,31 @@
+.casee{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    padding: 20px 10px;
+    align-items: center;
+
+    
+    
+}
+/* .M.MuiButtonBase-root,.MuiExpansionPanelSummary-root{
+    margin:10px;
+} */
+
+body{
+    background-color: grey;
+    font-size: 1.25rem;
+    font-family: "Arial", sans-serif;
+    font-weight: 500;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+}
+h2,h1{
+    color: #ffffff;
+}
+h1{
+    text-align: center;
+}
