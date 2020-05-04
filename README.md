@@ -1,8 +1,9 @@
 # To use this application You need to install :-
-1. Redis
-2. React
-3. Express
-4. Material-UI
+1. Nodejs
+2. Redis
+3. React
+4. Express
+5. Material-UI
 
 To run the application:
 1. Run redis server and redis-cli
